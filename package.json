@@ -1,0 +1,18 @@
+{
+  "name": "hart-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "chimp --mocha --ui=bdd --path=./test --"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chimp": "^0.42.0",
+    "mocha": "^3.2.0",
+    "sleep": "^5.0.0"
+  }
+}
